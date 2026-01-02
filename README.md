@@ -26,7 +26,6 @@
 - Advanced Django & REST
 - Distributed Systems
 - System Design basics
-
 ---
 
 ## 📫 Connect With Me
